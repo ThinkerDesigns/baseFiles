@@ -1,0 +1,2 @@
+# Example formats for file types
+## This repository will have every format for a file type. So when you need a file already written with the base you don't have to do it all over agin. Instead just clone this repo and boom you have templates all ready.
